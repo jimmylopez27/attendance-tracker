@@ -155,7 +155,7 @@ window.resizable(False, False)
 
 title = tk.Label(
     window,
-    text="Sunflower Trilingual School",
+    text="Patrick Lopez International School",
     font=("Arial", 16, "bold")
 )
 title.pack(pady=15)
